@@ -1,4 +1,6 @@
-# BisectSim-Collision-Resolver-Robot-Collisions
+## BisectSim-Collision-Resolver
+![WBzR](https://github.com/user-attachments/assets/5e1905c9-bc72-4d1a-94e0-78f46eb962af)
+
 https://leetcode.com/problems/robot-collisions/solutions/5471718/bisectsim-collision-resolver-easy-bisect-binary-search-sorting-concise/
 
 There are n 1-indexed robots, each having a position on a line, health, and movement direction.
